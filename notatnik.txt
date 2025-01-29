@@ -1,0 +1,9 @@
+mbr-card-subtitle mbr-fonts-style mt-0 mb-3 display-8 btn btn-primary
+
+#bebebe
+
+niebieski IRS #19304D
+
+navbar navbar-dropdown navbar-fixed-top navbar-expand-lg
+
+.cid-uAIUdG490n.container
